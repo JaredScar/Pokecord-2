@@ -20,5 +20,7 @@ Email any inquiries, suggestions, and/or ideas to [Badger](mailto:me@jaredscarit
 
 `p!begin <pokémon>` - After running `p!start`, you will then select your starter pokémon.
 
+![After running p!begin Bulbasaur](https://i.gyazo.com/170e1f43382a61c6d511ffe26cd883d5.png)
+
 `p!help` - You will be linked to this documentation for help :\)
 
