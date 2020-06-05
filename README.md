@@ -16,7 +16,7 @@ Email any inquiries, suggestions, and/or ideas to [Badger](mailto:me@jaredscarit
 
 `p!start` - Starts your pokémon adventure!
 
-`p!pick <pokémon>` - After running `p!start`, you will then select your starter pokémon.
+`p!begin <pokémon>` - After running `p!start`, you will then select your starter pokémon.
 
 `p!help` - You will be linked to this documentation for help :\)
 
