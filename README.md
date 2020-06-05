@@ -16,6 +16,8 @@ Email any inquiries, suggestions, and/or ideas to [Badger](mailto:me@jaredscarit
 
 `p!start` - Starts your pokémon adventure!
 
+![After running p!start](https://i.gyazo.com/f889b14fed63e54fc409b8440cbdb65b.png)
+
 `p!begin <pokémon>` - After running `p!start`, you will then select your starter pokémon.
 
 `p!help` - You will be linked to this documentation for help :\)
