@@ -24,3 +24,5 @@ Email any inquiries, suggestions, and/or ideas to [Badger](mailto:me@jaredscarit
 
 `p!help` - You will be linked to this documentation for help :\)
 
+`p!discord` - You will be linked to the Pokécord 2 \[by Badger\] discord server 
+
