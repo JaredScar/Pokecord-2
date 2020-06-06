@@ -22,7 +22,7 @@
 
 `p!ratings <pokémon ID>` - List your pokémon's \(IVs, EVs, Total IV %, Total EV %\)
 
-![Running p!ratings &amp;lt;pok&#xE9;mon ID&amp;gt;](https://i.gyazo.com/42d63c263b2b2eb0aa4b126f04d74bfa.png)
+![Running p!ratings &amp;lt;pok&#xE9;mon ID&amp;gt; ](https://i.gyazo.com/7640b293fc89e8aa95d2079631e2ad70.png)
 
 `p!daily` - Get your daily reward each day for running this command :\) \[Few other steps involved, but you get the point\]
 
