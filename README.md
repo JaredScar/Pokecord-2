@@ -1,5 +1,9 @@
 # Beginning the Game
 
+## Official Discord
+
+{% embed url="https://discord.gg/fRJGbxF" caption="Join our official discord server" %}
+
 ## Information
 
 The original Pokécord was a bot for Discord that let players catch, level-up, and battle their favorite\* \(FTFY\) pokémon from within Discord. Pokécord 2 is a total remake by Badger with the help of fans and supporters, not affiliated with the original Pokécord developers or owner.
