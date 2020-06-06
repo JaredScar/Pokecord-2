@@ -10,6 +10,8 @@
 
 `p!order <option>` - Order your `p!list` by options such as `alphabetical`, `number`, `level`, or `IV`
 
+![Running p!order](https://i.gyazo.com/7d3185c257329990a083f64b9ae0ca8c.png)
+
 `p!select <pokémon ID>` - Select the pokémon getting EXP as you chat and which will be used in battle
 
 `p!release <pokémon ID>` - Release this pokémon into the wild, you will need to confirm this before it actually takes effect luckily \(a confirmation message will be provided\)
