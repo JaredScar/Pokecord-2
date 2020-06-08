@@ -16,7 +16,11 @@
 
 `p!release <pokémon ID>` - Release this pokémon into the wild, you will need to confirm this before it actually takes effect luckily \(a confirmation message will be provided\)
 
-`p!stats <pokémon ID>` - List your pokémo's statistics \(Name, Level, EXP, Required EXP, Type, Held Item, Gender, Shiny, Nature, Ability, Owner, Caught Date\)
+`p!info <pokémon ID>` - Show both your pokémon's statistics and ratings together
+
+![Running p!info &amp;lt;pok&#xE9;mon ID&amp;gt;](https://i.gyazo.com/3fee73ddb2ae1af3bc40824b6cbf12ec.png)
+
+`p!stats <pokémon ID>` - List your pokémon's statistics \(Name, Level, EXP, Required EXP, Type, Held Item, Gender, Shiny, Nature, Ability, Owner, Caught Date\)
 
 ![Running p!stats &amp;lt;pok&#xE9;mon ID&amp;gt;](https://i.gyazo.com/528a616846e1c35db260ade6c60970b8.png)
 
