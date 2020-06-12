@@ -18,6 +18,8 @@
 
 `p!release <pokémon ID>` - Release this pokémon into the wild, you will need to confirm this before it actually takes effect luckily \(a confirmation message will be provided\)
 
+![Running p!release &amp;lt;pok&#xE9;mon ID&amp;gt;](https://i.gyazo.com/e83a9535f098d314e15fdae69c41d242.png)
+
 `p!info <pokémon ID>` - Show both your pokémon's statistics and ratings together
 
 ![Running p!info &amp;lt;pokemon ID&amp;gt;](https://i.gyazo.com/3fee73ddb2ae1af3bc40824b6cbf12ec.png)
