@@ -36,6 +36,10 @@
 
 ![Running p!leaderboard IV](https://i.gyazo.com/8d5898632694060cd162953da0aecd9e.png)
 
+`p!moves <pokémon ID>` - Show the moves your pokémon has
+
+![Running p!moves &amp;lt;pok&#xE9;mon ID&amp;gt;](https://i.gyazo.com/c97322af4910ad49dfebe975318a3c6c.png)
+
 `p!daily` - Get your daily reward each day for running this command :\) \[Few other steps involved, but you get the point\]
 
 `p!mega` - Evolve your current selected pokémon to a Mega X or Y \(depending on if you have a Mega Evo purchased\)
